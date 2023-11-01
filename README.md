@@ -5,7 +5,7 @@
 Find the simplest form of below equation. 
 
 Equation:  
-F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$C + A$\overline{BC}$ + AB$\overline{C}$
+F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overline{C}$
 
 ## Tasks
 1- Extract the Truth Table of the equation. 
