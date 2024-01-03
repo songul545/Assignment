@@ -9,8 +9,8 @@
 3- Save and Upload your circuit Digital design file to the repo like **Assignment8.dig**. 
 
 ### Screenshots
+![chrome_ekiOovBXOz](https://github.com/abbaselmas/Assignment/assets/148035285/45729bb5-090f-485c-9200-f825168f2c95)
 
-*Insert Screenshots here*
 
 ### Equipments List
 
